@@ -24,15 +24,22 @@
 
 </div>
 
-01 // SYSTEM_OVERVIEWclass SystemProfile:
-    def __init__(self):
-        self.engineer   = "Prabhat Tiwari"
-        self.role       = "Software Engineer • B.Tech CSE @ Galgotias College of Engg. & Tech."
-        self.domains    = ["Backend Systems", "Applied AI/ML", "Quantitative Research", "Web3"]
-        self.flagships  = ["VeritasChain (RAG + GNN)", "VolatilityForge (GARCH / HAR-RV)", "AEGIS"]
-        self.benchmarks = {"DSA_Solved": "310+ (150 LC • 160 GFG)", "LeetCode_Rating": 1730}
-        self.portfolio  = "https://portfolio-blue-three-11.vercel.app"
-        self.contact    = "rajkantiwari1412@gmail.com"
-⚡ Architecture & Engineering: Building real-time event-driven backends (FastAPI, WebSockets, Redis), multi-stage RAG & Graph Neural Network pipelines (LangChain, FAISS, PyTorch Geometric), and decentralized verification protocols (Solidity, IPFS).📈 Quantitative Modeling: Designing walk-forward volatility forecasting engines (EWMA, GARCH, GJR-GARCH, HAR-RV, LightGBM) and transaction-cost-aware strategy backtests.🏆 Algorithmic Problem Solving: 310+ problems solved across platforms (1730 Contest Rating on LeetCode • 160+ problems on GeeksforGeeks).02 // FLAGSHIP_ARCHITECTURES🛡️ VeritasChainDecentralized AI Fact-Checking & Source-Trust EngineStreaming Core: Built a real-time FastAPI + WebSocket gateway streaming live claim verifications to a React/TypeScript client.Hybrid AI Pipeline: Engineered Trie/Heap deduplication, FAISS RAG retrieval, and a PyTorch Geometric GNN for source-trust scoring.Immutable Auditability: Anchored Pydantic-validated verdicts to IPFS via Solidity/Web3.py, backed by 451 passing unit/integration tests.📈 VolatilityForgeQuantitative Market Volatility Forecasting SuiteFeature Engineering: Automated alignment of SPY/VIX time-series data to construct forward realized-variance targets.Walk-Forward Modeling: Benchmarked EWMA, GARCH, GJR-GARCH, HAR-RV, and LightGBM across 1-day and 5-day horizons.Empirical Alpha: Reduced 5-day out-of-sample mean QLIKE by 18.54% ($0.4576 \rightarrow 0.3727$) and MSE by ~2.57% across $1,196$ observations with cost-aware backtests.⛓️ Cryptographic Wallet & Babycoin ICOCustom Proof-of-Work Blockchain & Token Sale ProtocolArchitected a custom SHA-256 Proof-of-Work blockchain featuring cryptographic block linking, mempool transaction handling, peer-node discovery, and longest-valid-chain consensus.Deployed a Solidity smart contract governing the Babycoin ICO (1,000,000 token supply cap, real-time INR conversion pricing, and on-chain investor equity state tracking).03 // TECHNICAL_STACK🧠 AI / ML & GenAI⚙️ Backend & Infra📊 Quant & Data🌐 Web3 & FrontendPyTorch · PyTorch GeometricFastAPI · Node.js · ExpressPandas · NumPy · yfinanceReact · Next.js · TypeScriptLangChain · HuggingFacePostgreSQL · Redis · MongoDBEWMA · GARCH · GJR-GARCHRedux · Tailwind CSSFAISS · XGBoost · LightGBMWebSockets · REST APIsHAR-RV · Walk-Forward Val.Solidity · Hardhatscikit-learnDocker · Linux · GitStreamlitWeb3.py · IPFSDomainRepositoriesApplied LLMs & RAGmulti-modal-sentiment-analysis-using-RAG-and-pipelining · AI-Assistant-LLM-frontier-model · text-to-speech-and-transcription-frontier-LLM-modelMachine Learning CoreNeural-Networks · Classification · Clustering · Regression-models · Associative-learningSystems & Web Eng.ageis · web-dev-event-driven-architecture · web-dev-backend · portfolioAlgorithmsDSA-PYTHON04 // ALGORITHMIC_BENCHMARKS05 // TELEMETRY_&_ACTIVITY┌──────────────────────────────────────────────────────────────────────────────────────┐
-│  Available for Software Engineering, Backend, Applied AI/ML & Quant Internships/FT   │
-└──────────────────────────────────────────────────────────────────────────────────────┘
+<!-- ═══════════════════════════ SYSTEM PROFILE ═══════════════════════════ -->
+### `01 // SYSTEM_OVERVIEW`
+
+```yaml
+developer:
+  name: "Prabhat Tiwari"
+  education: "B.Tech CSE @ Galgotias College of Engineering & Technology"
+  focus_areas:
+    - "High-Concurrency Backend Systems (FastAPI, WebSockets, Event-Driven)"
+    - "Applied AI/ML (RAG Pipelines, Graph Neural Networks, Frontier LLMs)"
+    - "Quantitative Finance (Volatility Modeling: EWMA, GARCH, HAR-RV)"
+    - "Decentralized Protocols (Solidity, Consensus Engines, IPFS)"
+  algorithmic_metrics:
+    total_solved: "310+ Problems (150 LeetCode • 160 GeeksforGeeks)"
+    contest_rating: 1730
+  current_research:
+    - "Low-latency event-driven execution engines"
+    - "Multi-Agent LLM orchestration & verification"
+    - "Transaction-cost-aware quantitative backtesting"
