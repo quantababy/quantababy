@@ -25,109 +25,70 @@
 </div>
 
 <!-- ═══════════════════════════ SYSTEM PROFILE ═══════════════════════════ -->
-### `01 // SYSTEM_OVERVIEW`
 
-<div align="center">
+<h3><code>01 // SYSTEM_OVERVIEW</code></h3>
 
-<style>
-.sys-container {
-  background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
-  border: 1px solid #30363d;
-  border-radius: 14px;
-  padding: 20px;
-  text-align: left;
-  font-family: 'JetBrains Mono', 'Fira Code', monospace;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
-  transition: all 0.3s ease;
-}
-.sys-container:hover {
-  border-color: #a78bfa;
-  box-shadow: 0 12px 32px rgba(124, 58, 237, 0.2);
-}
-.sys-header {
-  display: flex;
-  justify-content: space-between;
-  border-bottom: 1px solid #21262d;
-  padding-bottom: 10px;
-  margin-bottom: 14px;
-  font-size: 12px;
-  color: #8b949e;
-}
-.sys-badge {
-  background: #238636;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 10px;
-  font-size: 11px;
-  font-weight: 600;
-}
-.sys-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 14px;
-}
-@media (max-width: 768px) {
-  .sys-grid { grid-template-columns: 1fr; }
-}
-.sys-box {
-  background: #090d16;
-  border: 1px solid #21262d;
-  border-radius: 10px;
-  padding: 14px;
-}
-.sys-title {
-  color: #a78bfa;
-  font-size: 13px;
-  font-weight: 700;
-  margin-bottom: 8px;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-.sys-list {
-  margin: 0;
-  padding-left: 16px;
-  color: #c9d1d9;
-  font-size: 12.5px;
-  line-height: 1.5;
-}
-.sys-list li {
-  margin-bottom: 4px;
-}
-.highlight-text {
-  color: #7ee787;
-  font-weight: 600;
-}
-</style>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&color=A78BFA&repeat=false&vCenter=true&width=420&height=24&lines=%24+cat+system_overview.yml" alt="$ cat system_overview.yml" />
 
-<div class="sys-container">
-  <div class="sys-header">
-    <span><b>Developer:</b> Prabhat Tiwari &nbsp;|&nbsp; <b>Edu:</b> B.Tech CSE @ Galgotias College</span>
-    <span class="sys-badge">● ACTIVE SESSION</span>
-  </div>
-  
-  <div class="sys-grid">
-    <div class="sys-box">
-      <div class="sys-title">⚡ Core Focus Areas</div>
-      <ul class="sys-list">
-        <li><b>Backend:</b> FastAPI, WebSockets, Event-Driven Systems</li>
-        <li><b>AI/ML:</b> RAG Pipelines, Graph Neural Networks, Frontier LLMs</li>
-        <li><b>Quant:</b> Volatility Modeling (EWMA, GARCH, HAR-RV)</li>
-        <li><b>Web3:</b> Solidity Smart Contracts, Consensus Engines, IPFS</li>
-      </ul>
-    </div>
+<table width="100%">
+<tr>
+<td width="34%" valign="top"><sub><code>developer.name</code></sub><br/><b>Prabhat Tiwari</b></td>
+<td width="66%" valign="top"><sub><code>developer.education</code></sub><br/><b>B.Tech CSE</b> &middot; Galgotias College of Engineering &amp; Technology</td>
+</tr>
+</table>
 
-    <div class="sys-box">
-      <div class="sys-title">📊 Benchmarks & Research</div>
-      <ul class="sys-list">
-        <li><b>DSA Solved:</b> <span class="highlight-text">310+ Problems</span> (150 LC • 160 GFG)</li>
-        <li><b>LeetCode Rating:</b> <span class="highlight-text">1730</span> 🏆</li>
-        <li><b>Active R&D:</b> Low-latency engines & multi-agent LLM verification</li>
-      </ul>
-    </div>
-  </div>
-</div>
+<p><code>algorithmic_metrics:</code></p>
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/TOTAL_SOLVED-310%2B-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Total solved: 310+" />
+<img src="https://img.shields.io/badge/LEETCODE_SOLVED-150-7C3AED?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1E1B4B" alt="LeetCode solved: 150" />
+<img src="https://img.shields.io/badge/GFG_SOLVED-160-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=1E1B4B" alt="GeeksforGeeks solved: 160" />
+<img src="https://img.shields.io/badge/CONTEST_RATING-1730-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Contest rating: 1730" />
+</p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /></p>
+<p><code>focus_areas:</code></p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<code>01</code> <b>High-Concurrency Backend Systems</b><br/>
+<img src="https://img.shields.io/badge/FastAPI-1E1B4B?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/WebSockets-1E1B4B?style=flat-square" alt="WebSockets" />
+<img src="https://img.shields.io/badge/Event--Driven-1E1B4B?style=flat-square" alt="Event-Driven" />
+</td>
+<td width="50%" valign="top">
+<code>02</code> <b>Applied AI/ML</b><br/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-1E1B4B?style=flat-square" alt="RAG Pipelines" />
+<img src="https://img.shields.io/badge/Graph_Neural_Networks-1E1B4B?style=flat-square" alt="Graph Neural Networks" />
+<img src="https://img.shields.io/badge/Frontier_LLMs-1E1B4B?style=flat-square" alt="Frontier LLMs" />
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<code>03</code> <b>Quantitative Finance</b><br/>
+<img src="https://img.shields.io/badge/Volatility_Modeling-1E1B4B?style=flat-square" alt="Volatility Modeling" />
+<img src="https://img.shields.io/badge/EWMA-1E1B4B?style=flat-square" alt="EWMA" />
+<img src="https://img.shields.io/badge/GARCH-1E1B4B?style=flat-square" alt="GARCH" />
+<img src="https://img.shields.io/badge/HAR--RV-1E1B4B?style=flat-square" alt="HAR-RV" />
+</td>
+<td width="50%" valign="top">
+<code>04</code> <b>Decentralized Protocols</b><br/>
+<img src="https://img.shields.io/badge/Solidity-1E1B4B?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/Consensus_Engines-1E1B4B?style=flat-square" alt="Consensus Engines" />
+<img src="https://img.shields.io/badge/IPFS-1E1B4B?style=flat-square&logo=ipfs&logoColor=65C2CB" alt="IPFS" />
+</td>
+</tr>
+</table>
+
+<p><code>current_research:</code></p>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top"><img src="https://img.shields.io/badge/RESEARCH-01-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Research 01" /><br/><b>Low-latency event-driven<br/>execution engines</b></td>
+<td width="33%" align="center" valign="top"><img src="https://img.shields.io/badge/RESEARCH-02-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Research 02" /><br/><b>Multi-Agent LLM<br/>orchestration &amp; verification</b></td>
+<td width="33%" align="center" valign="top"><img src="https://img.shields.io/badge/RESEARCH-03-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Research 03" /><br/><b>Transaction-cost-aware<br/>quantitative backtesting</b></td>
+</tr>
+</table>
