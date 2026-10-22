@@ -26,22 +26,22 @@
 
 <!-- ═══════════════════════════ SYSTEM PROFILE ═══════════════════════════ -->
 
-### `01 // SYSTEM_OVERVIEW`
+<h3><code>01 // SYSTEM_OVERVIEW</code></h3>
 
-```yaml
+<pre lang="yaml">
 developer:
   name: "Prabhat Tiwari"
-  education: "B.Tech CSE @ Galgotias College of Engineering & Technology"
+  education: "B.Tech CSE @ Galgotias College of Engineering &amp; Technology"
   focus_areas:
     - "High-Concurrency Backend Systems (FastAPI, WebSockets, Event-Driven)"
     - "Applied AI/ML (RAG Pipelines, Graph Neural Networks, Frontier LLMs)"
     - "Quantitative Finance (Volatility Modeling: EWMA, GARCH, HAR-RV)"
     - "Decentralized Protocols (Solidity, Consensus Engines, IPFS)"
   algorithmic_metrics:
-    total_solved: "310+ Problems (150 LeetCode • 160 GeeksforGeeks)"
+    total_solved: "310+ Problems (150 LeetCode &bull; 160 GeeksforGeeks)"
     contest_rating: 1730
   current_research:
     - "Low-latency event-driven execution engines"
-    - "Multi-Agent LLM orchestration & verification"
+    - "Multi-Agent LLM orchestration &amp; verification"
     - "Transaction-cost-aware quantitative backtesting"
-```
+</pre>
