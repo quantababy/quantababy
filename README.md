@@ -24,24 +24,111 @@
 
 </div>
 
-<!-- ═══════════════════════════ SYSTEM PROFILE ═══════════════════════════ -->
+<div align="center">
 
-<h3><code>01 // SYSTEM_OVERVIEW</code></h3>
+<style>
+.system-card {
+  background: linear-gradient(145deg, #0d1117 0%, #161b22 100%);
+  border: 1px solid #30363d;
+  border-radius: 16px;
+  padding: 24px;
+  text-align: left;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s ease, border-color 0.4s ease;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  position: relative;
+  overflow: hidden;
+}
 
-<pre lang="yaml">
-developer:
-  name: "Prabhat Tiwari"
-  education: "B.Tech CSE @ Galgotias College of Engineering &amp; Technology"
-  focus_areas:
-    - "High-Concurrency Backend Systems (FastAPI, WebSockets, Event-Driven)"
-    - "Applied AI/ML (RAG Pipelines, Graph Neural Networks, Frontier LLMs)"
-    - "Quantitative Finance (Volatility Modeling: EWMA, GARCH, HAR-RV)"
-    - "Decentralized Protocols (Solidity, Consensus Engines, IPFS)"
-  algorithmic_metrics:
-    total_solved: "310+ Problems (150 LeetCode &bull; 160 GeeksforGeeks)"
-    contest_rating: 1730
-  current_research:
-    - "Low-latency event-driven execution engines"
-    - "Multi-Agent LLM orchestration &amp; verification"
-    - "Transaction-cost-aware quantitative backtesting"
-</pre>
+.system-card:hover {
+  transform: translateY(-6px) scale(1.01);
+  border-color: #a78bfa;
+  box-shadow: 0 20px 40px rgba(124, 58, 237, 0.25), 0 0 20px rgba(167, 139, 250, 0.15);
+}
+
+.system-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #a78bfa, #7c3aed, transparent);
+  animation: scanline 4s linear infinite;
+}
+
+@keyframes scanline {
+  0% { left: -100%; }
+  100% { left: 100%; }
+}
+
+.code-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #21262d;
+  padding-bottom: 12px;
+  margin-bottom: 16px;
+  font-size: 13px;
+  color: #8b949e;
+}
+
+.dots {
+  display: flex;
+  gap: 6px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.dot-red { background: #ff5f56; }
+.dot-yellow { background: #ffbd2e; }
+.dot-green { background: #27c93f; }
+
+.yaml-body {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: #c9d1d9;
+}
+
+.yaml-key { color: #7ee787; }
+.yaml-sub { color: #79c0ff; }
+.yaml-str { color: #a5d6ff; }
+.yaml-num { color: #d2a8ff; }
+</style>
+
+<br>
+
+<div class="system-card">
+  <div class="code-header">
+    <div class="dots">
+      <div class="dot dot-red"></div>
+      <div class="dot dot-yellow"></div>
+      <div class="dot dot-green"></div>
+    </div>
+    <span>📂 system_profile.yaml — active_session</span>
+    <span style="color: #a78bfa; font-weight: 600;">● LIVE</span>
+  </div>
+  <div class="yaml-body">
+    <span class="yaml-key">developer</span>:<br>
+    &nbsp;&nbsp;<span class="yaml-sub">name</span>: <span class="yaml-str">"Prabhat Tiwari"</span><br>
+    &nbsp;&nbsp;<span class="yaml-sub">education</span>: <span class="yaml-str">"B.Tech CSE @ Galgotias College of Engineering & Technology"</span><br>
+    &nbsp;&nbsp;<span class="yaml-sub">focus_areas</span>:<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="yaml-str">"High-Concurrency Backend Systems (FastAPI, WebSockets, Event-Driven)"</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="yaml-str">"Applied AI/ML (RAG Pipelines, Graph Neural Networks, Frontier LLMs)"</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="yaml-str">"Quantitative Finance (Volatility Modeling: EWMA, GARCH, HAR-RV)"</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="yaml-str">"Decentralized Protocols (Solidity, Consensus Engines, IPFS)"</span><br>
+    &nbsp;&nbsp;<span class="yaml-key">algorithmic_metrics</span>:<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span class="yaml-sub">total_solved</span>: <span class="yaml-str">"310+ Problems (150 LeetCode &bull; 160 GeeksforGeeks)"</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span class="yaml-sub">contest_rating</span>: <span class="yaml-num">1730</span><br>
+    &nbsp;&nbsp;<span class="yaml-key">current_research</span>:<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="yaml-str">"Low-latency event-driven execution engines"</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="yaml-str">"Multi-Agent LLM orchestration &amp; verification"</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;- <span class="yaml-str">"Transaction-cost-aware quantitative backtesting"</span>
+  </div>
+</div>
+
+<br>
+</div>
