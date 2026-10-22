@@ -24,22 +24,15 @@
 
 </div>
 
-<!-- ═══════════════════════════ SYSTEM PROFILE ═══════════════════════════ -->
 ### `01 // SYSTEM_OVERVIEW`
 
-```yaml
-developer:
-  name: "Prabhat Tiwari"
-  education: "B.Tech CSE @ Galgotias College of Engineering & Technology"
-  focus_areas:
-    - "High-Concurrency Backend Systems (FastAPI, WebSockets, Event-Driven)"
-    - "Applied AI/ML (RAG Pipelines, Graph Neural Networks, Frontier LLMs)"
-    - "Quantitative Finance (Volatility Modeling: EWMA, GARCH, HAR-RV)"
-    - "Decentralized Protocols (Solidity, Consensus Engines, IPFS)"
-  algorithmic_metrics:
-    total_solved: "310+ Problems (150 LeetCode • 160 GeeksforGeeks)"
-    contest_rating: 1730
-  current_research:
-    - "Low-latency event-driven execution engines"
-    - "Multi-Agent LLM orchestration & verification"
-    - "Transaction-cost-aware quantitative backtesting"
+```python
+class SystemProfile:
+    def __init__(self):
+        self.engineer   = "Prabhat Tiwari"
+        self.role       = "Software Engineer • B.Tech CSE @ Galgotias College of Engg. & Tech."
+        self.domains    = ["Backend Systems", "Applied AI/ML", "Quantitative Research", "Web3"]
+        self.flagships  = ["VeritasChain (RAG + GNN)", "VolatilityForge (GARCH / HAR-RV)", "AEGIS"]
+        self.benchmarks = {"DSA_Solved": "310+ (150 LC • 160 GFG)", "LeetCode_Rating": 1730}
+        self.portfolio  = "[https://portfolio-blue-three-11.vercel.app](https://portfolio-blue-three-11.vercel.app)"
+        self.contact    = "rajkantiwari1412@gmail.com"
