@@ -25,6 +25,7 @@
 </div>
 
 <!-- ═══════════════════════════ SYSTEM PROFILE ═══════════════════════════ -->
+
 ### `01 // SYSTEM_OVERVIEW`
 
 ```yaml
@@ -43,3 +44,4 @@ developer:
     - "Low-latency event-driven execution engines"
     - "Multi-Agent LLM orchestration & verification"
     - "Transaction-cost-aware quantitative backtesting"
+```
