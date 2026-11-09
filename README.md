@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/quantababy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://leetcode.com/u/prabhat_4884/"><img src="https://img.shields.io/badge/LeetCode_1730-18181B?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>&nbsp;
+  <a href="https://leetcode.com/u/prabhat_4884/"><img src="https://img.shields.io/badge/LeetCode_1612-18181B?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/quantababy"><img src="https://img.shields.io/badge/GeeksforGeeks-18181B?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" /></a>&nbsp;
   <a href="https://github.com/quantababy/portfolio"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="mailto:rajkantiwari1412@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
