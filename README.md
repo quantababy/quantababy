@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/TOTAL_SOLVED-400%2B-4c1d95?style=for-the-badge&labelColor=090d16" alt="Total solved: 400+" />
   <img src="https://img.shields.io/badge/LEETCODE-240_SOLVED-4c1d95?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=090d16" alt="LeetCode solved: 240" />
   <img src="https://img.shields.io/badge/GEEKSFORGEEKS-160_SOLVED-4c1d95?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=090d16" alt="GeeksforGeeks solved: 160" />
-  <img src="https://img.shields.io/badge/CONTEST_RATING-1730-4c1d95?style=for-the-badge&labelColor=090d16" alt="Contest rating: 1730" />
+  <img src="https://img.shields.io/badge/CONTEST_RATING-1612-4c1d95?style=for-the-badge&labelColor=090d16" alt="Contest rating: 1612" />
 </p>
 
 <br/>
