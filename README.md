@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Live_Portfolio-quantababy.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=090D16" alt="Live Portfolio" />
   </a>
   <a href="https://quantababy.vercel.app/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-4C1D95?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=090D16" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-PDF-4C1D95?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=090D16" alt="Resume" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=quantababy&label=SYSTEM_VISITS&color=7c3aed&labelColor=090d16&style=for-the-badge" alt="Profile Visits" />
 </p>
@@ -68,7 +68,7 @@
   </a>
   <!-- Dynamic GitHub Profile Stats Card in Obsidian & Deep Purple Theme -->
   <a href="https://github.com/quantababy">
-    <img src="https://github-readme-stats.vercel.app/api?username=quantababy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0" width="45%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=quantababy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0" width="45%" alt="GitHub Stats" />
   </a>
 </div>
 
