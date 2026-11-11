@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/quantababy/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://leetcode.com/u/prabhat_4884/"><img src="https://img.shields.io/badge/LeetCode-241_Solved_|_1612-6D28D9?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>&nbsp;
+  <a href="https://leetcode.com/u/prabhat_4884/"><img src="https://img.shields.io/badge/LeetCode-270_Solved_|_1612-6D28D9?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/quantababy?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-164_Solved-5B21B6?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" /></a>&nbsp;
   <a href="mailto:rajkantiwari1412@gmail.com"><img src="https://img.shields.io/badge/Terminal_Contact-4C1D95?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
