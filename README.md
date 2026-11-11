@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════════ ELECTRIC PURPLE CONSOLE STREAM ═══════════════════════════ -->
 <a href="https://quantababy.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=%24+init+scalable_backend_systems+--stack+FastAPI+WebSockets+Redis;%24+deploy+rag_gnn_pipeline+--engine+PyTorch_Geometric+FAISS;%24+forecast+market_volatility+--models+GARCH+GJR-GARCH+HAR-RV;%24+compile+smart_contracts+--network+Solidity+Web3.py+IPFS;%24+verify+problem_solving+--leetcode+241%2B+[1612]+--gfg+164%2B;%24+live_edge_portfolio+--url+https%3A%2F%2Fquantababy.vercel.app" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=%24+init+scalable_backend_systems+--stack+FastAPI+WebSockets+Redis;%24+deploy+rag_gnn_pipeline+--engine+PyTorch_Geometric+FAISS;%24+forecast+market_volatility+--models+GARCH+GJR-GARCH+HAR-RV;%24+compile+smart_contracts+--network+Solidity+Web3.py+IPFS;%24+verify+problem_solving+--leetcode+260%2B+[1612]+--gfg+164%2B;%24+live_edge_portfolio+--url+https%3A%2F%2Fquantababy.vercel.app" alt="Typing SVG" />
 </a>
 
 <br/><br/>
